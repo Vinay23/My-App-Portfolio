@@ -1,0 +1,44 @@
+<resources>
+    <!-- Title for the application -->
+    <string name="app_name">My App Portfolio</string>
+
+    <!-- Title of the list of buttons to launch apps -->
+    <string name="launch_title">My Nanodegree Apps!</string>
+
+    <!-- Popular Movies app launch button name -->
+    <string name="popular_movies">Popular Movies</string>
+
+    <!-- Stock Hawk app launch button name -->
+    <string name="stock_hawk">Stock Hawk</string>
+
+    <!-- Build it bigger app launch button name -->
+    <string name="build_it_bigger">Build it bigger</string>
+
+    <!-- Make your app material app launch button name -->
+    <string name="make_your_app_material">Make your app material</string>
+
+    <!-- Go Ubiquitous app launch button name -->
+    <string name="go_ubiquitous">Go Ubiquitous</string>
+
+    <!-- Capstone project app launch button name -->
+    <string name="capstone">Capstone</string>
+
+    <!-- Message when Popular Movies button is clicked -->
+    <string name="popular_movies_message">This button will launch Popular Movies app!</string>
+
+    <!-- Message when Stock Hawk button is clicked -->
+    <string name="stock_hawk_message">This button will launch Stock Hawk app!</string>
+
+    <!-- Message when Build it bigger button is clicked -->
+    <string name="build_it_bigger_message">This button will launch Build it bigger app!</string>
+
+    <!-- Message when Make your app material button is clicked -->
+    <string name="make_your_app_material_message">This button will launch Make your app material app!</string>
+
+    <!-- Message when Go Ubiquitous button is clicked -->
+    <string name="go_ubiquitous_message">This button will launch Go Ubiquitous app!</string>
+
+    <!-- Message when Capstone button is clicked -->
+    <string name="capstone_message">This button will launch My Capstone app!</string>
+
+</resources>
